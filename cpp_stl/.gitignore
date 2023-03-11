@@ -1,0 +1,10 @@
+# Ignore Everything
+*
+
+# Unignore Non-Executables
+!*/
+!**/.gitignore
+!**/*.md
+!**/*.sh
+!**/.envrc
+!**/*.cpp
